@@ -19,7 +19,7 @@ Decision Trees (DT) displayed a consistently negative correlation, suggesting th
 
 
 
-## Training size increase 
+## Training size increase
 Upon modifying the training size from 4 months to an extended period of 40 months (a 10x increase), the performance of different machine learning models varied. 
 Specifically, the Support Vector Machine(SVM) exhibited performance akin to actual returns, suggesting that utilizing SVM might not be worthwhile given the associated risks.
 

@@ -4,7 +4,7 @@
 ![](Images/initial_size_and_window/svm_vs_actual_S4_L100_off4.png)
 
 
-## Training window increase Short_8 and Long_200
+## Training window increase 
 In the adjustment where only the short window was modified to 8 (2x increase) and the long window to 200 (2x increase), the Support Vector Machine(SVM) initially mirrored actual returns. However, a decline in performance was observed around one-third of the data. 
 
 ![](Images/training_window/svm_vs_actual.png)
@@ -19,7 +19,7 @@ Decision Trees (DT) displayed a consistently negative correlation, suggesting th
 
 
 
-## Training size increase Month_40
+## Training size increase 
 Upon modifying the training size from 4 months to an extended period of 40 months (a 10x increase), the performance of different machine learning models varied. 
 Specifically, the Support Vector Machine(SVM) exhibited performance akin to actual returns, suggesting that utilizing SVM might not be worthwhile given the associated risks.
 
